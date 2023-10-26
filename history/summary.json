@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.notakrista.com.ico",
     "slug": "notakrista-com",
     "status": "up",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 497,
-    "timeDay": 497,
-    "timeWeek": 497,
-    "timeMonth": 497,
-    "timeYear": 497,
+    "uptime": "30.01%",
+    "uptimeDay": "30.01%",
+    "uptimeWeek": "30.01%",
+    "uptimeMonth": "30.01%",
+    "uptimeYear": "30.01%",
+    "time": 479,
+    "timeDay": 479,
+    "timeWeek": 479,
+    "timeMonth": 479,
+    "timeYear": 479,
     "dailyMinutesDown": {
       "2023-10-25": 935
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1189,
-    "timeDay": 1189,
-    "timeWeek": 1189,
-    "timeMonth": 1189,
-    "timeYear": 1189,
+    "time": 993,
+    "timeDay": 993,
+    "timeWeek": 993,
+    "timeMonth": 993,
+    "timeYear": 993,
     "dailyMinutesDown": {}
   }
 ]
