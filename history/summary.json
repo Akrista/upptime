@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.30%",
-    "time": 183,
-    "timeDay": 240,
-    "timeWeek": 197,
-    "timeMonth": 157,
-    "timeYear": 183,
+    "time": 180,
+    "timeDay": 62,
+    "timeWeek": 185,
+    "timeMonth": 152,
+    "timeYear": 180,
     "dailyMinutesDown": {
       "2023-10-26": 16,
       "2023-10-25": 935
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/metabase.notakrista.com.ico",
     "slug": "metabase-not-akrista",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1073,
-    "timeDay": 759,
-    "timeWeek": 1021,
-    "timeMonth": 1133,
-    "timeYear": 1073,
+    "uptime": "99.70%",
+    "uptimeDay": "88.41%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.70%",
+    "time": 1058,
+    "timeDay": 383,
+    "timeWeek": 974,
+    "timeMonth": 1111,
+    "timeYear": 1058,
     "dailyMinutesDown": {
-      "2023-12-02": 0
+      "2023-12-03": 5,
+      "2023-12-02": 162
     }
   }
 ]
